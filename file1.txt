@@ -1,4 +1,2 @@
 My first file in project
-London is a capital of GB
-Moscow is a capital of Russia
 Paris is a capital of France
